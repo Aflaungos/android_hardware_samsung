@@ -2,7 +2,7 @@
 
 hidl_interface {
     name: "vendor.samsung.hardware.sysinput@1.2",
-    root: "vendor",
+    root: "vendor.samsung.hardware",
     system_ext_specific: true,
     srcs: [
         "ISehSysInputDev.hal",
